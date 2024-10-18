@@ -24,6 +24,15 @@
   },
   "firstByteThresholdMS": false,
   "theme": {
-    "__resolveType": "Neutral"
+    "__resolveType": "Groovy Vibes"
+  },
+  "abTesting": {
+    "replaces": [],
+    "includeScriptsToHead": {
+      "includes": []
+    }
+  },
+  "flavor": {
+    "framework": "fresh"
   }
 }
